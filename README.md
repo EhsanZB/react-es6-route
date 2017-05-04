@@ -4,7 +4,6 @@ React project seed with routing
 
 ### How to use:
 
-. npm install
-. npm run server
-. npm run dev
-
+1. npm install
+2. npm run server
+3. npm run dev
